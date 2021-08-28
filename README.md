@@ -1,4 +1,4 @@
-# Sign Language Digits Dataset
+# Original: Sign Language Digits Dataset
 ### By ***[Turkey Ankara Ayrancı Anadolu High School](http://ayrancianadolu.meb.k12.tr)*** Students
 
 #### Turkey Ankara Ayrancı Anadolu High School's Sign Language Digits Dataset
@@ -26,3 +26,8 @@ Turkey Ankara Ayrancı Anadolu High School Students
 # For Development:
 ### Processing Dataset:
 For processing the dataset, look up Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)
+
+### Added by Matteo Ambrosini
+- 500 images
+- 50 per class
+- involving about 3/4 different people
